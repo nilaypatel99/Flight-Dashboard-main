@@ -1,0 +1,12 @@
+streamlit
+mysql-connector-python
+pandas
+numpy
+scikit-learn
+plotly
+python-dotenv
+psycopg2-binary
+
+
+
+
