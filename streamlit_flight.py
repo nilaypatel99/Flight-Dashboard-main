@@ -5,6 +5,7 @@ import plotly.express as px
 from PIL import Image
 import pandas as pd
 
+
 # Creating the db object
 db = Db()
 
